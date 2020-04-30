@@ -1,0 +1,4 @@
+Estilos que van en todas las paginas.
+ejemplo:
+    Reglas que se usan para normalizar.
+    Tipografias.
